@@ -1,0 +1,22 @@
+.nav-item.is-brand {
+	font-family: Montserrat;
+	font-weight: normal;
+}
+
+.nav-item.is-brand > img {
+	border-radius: 100%;
+}
+
+.content {
+	font-size: 15px;
+	text-align: justify;
+	hyphens: auto;
+}
+
+.content a:link, .content a:visited {
+	color: #009688;
+}
+
+.content a:hover {
+	color: #363636;
+}
